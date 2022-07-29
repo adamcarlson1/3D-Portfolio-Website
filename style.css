@@ -1,14 +1,14 @@
 @import url("https://use.typekit.net/jmk3xov.css");
 
 canvas{
-    position:fixed;
+    position: fixed;
     top: 0;
     left: 0;
 }
 
 :root{
     --dark-bg: rgba(15,15,15,0.95);
-    --spacing: 350 px;
+    --spacing: 350px;
 
     font-family: brandon-grotesque, sans-serif;
     font-weight: 400;
